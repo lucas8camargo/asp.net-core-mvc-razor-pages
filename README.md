@@ -1,8 +1,8 @@
 # CRUD de Produtos com ASP.NET Core MVC
 
-[![.NET](https://img.shields.io/badge/.NET-6.0-purple)](https://dotnet.microsoft.com/)
+[![.NET](https://img.shields.io/badge/.NET-8.0-purple)](https://dotnet.microsoft.com/)
 [![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-6.0-blue)](https://dotnet.microsoft.com/apps/aspnet)
-[![EF Core](https://img.shields.io/badge/EF_Core-6.0-green)](https://docs.microsoft.com/ef/core/)
+[![EF Core](https://img.shields.io/badge/EF_Core-8.0-green)](https://docs.microsoft.com/ef/core/)
 [![SQLite](https://img.shields.io/badge/SQLite-3-lightgrey)](https://www.sqlite.org/)
 
 Um aplicativo web simples para gerenciamento de produtos com operações CRUD (Create, Read, Update, Delete) implementado com ASP.NET Core MVC, Entity Framework Core e SQLite.
