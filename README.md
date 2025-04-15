@@ -20,8 +20,8 @@ Um aplicativo web simples para gerenciamento de produtos com operações CRUD (C
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **ASP.NET Core 6.0** - Framework web
-- **Entity Framework Core 6.0** - ORM para acesso a dados
+- **ASP.NET Core 8.0** - Framework web
+- **Entity Framework Core 8.0** - ORM para acesso a dados
 - **SQLite** - Banco de dados embutido
 - **Razor Pages** - Para geração de views
 - **Bootstrap 5** - Para estilização
