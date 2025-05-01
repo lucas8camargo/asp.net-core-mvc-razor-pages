@@ -7,7 +7,7 @@
 
 Um aplicativo web simples para gerenciamento de produtos com operações CRUD (Create, Read, Update, Delete) implementado com ASP.NET Core MVC, Entity Framework Core e SQLite.
 
-## 📋 Funcionalidades
+## Funcionalidades
 
 - Listagem de produtos
 - Criação de novos produtos
@@ -18,7 +18,7 @@ Um aplicativo web simples para gerenciamento de produtos com operações CRUD (C
 - Persistência em banco de dados SQLite
 - Suporte a migrations do EF Core
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **ASP.NET Core 8.0** - Framework web
 - **Entity Framework Core 8.0** - ORM para acesso a dados
